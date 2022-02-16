@@ -1,3 +1,4 @@
+![Tec de Monterrey](images/logotecmty.png)
 # Actividad colaborativa - Manejo de semáforos
 Implementa la solución de Tanenbaum del problema "La cena de los filósofos" (Dining philosophers). El programa debe, usando sólo las operaciones sobre semáforos vistas en clase, ...
 1. Crear todos los recursos de IPC que sean necesario.
